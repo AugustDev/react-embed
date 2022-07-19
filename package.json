@@ -5,6 +5,7 @@
   "description": "WidgetBot react-embed",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "prepare": "yarn && yarn build",
   "repository": "https://github.com/widgetbot-io/react-embed",
   "author": "Daave <daave@widgetbot.io>",
   "license": "MIT",
